@@ -1,8 +1,8 @@
-# Dog, Cat, and Weather Project
+# Animal and Weather Project
 
 ## Overview
 
-This project combines information about dogs, cats, and weather using the Dog API, Cat API, and Weather API. It provides users with details about various dog breeds, cat breeds, and current weather conditions.
+This project combines information about animals like dogs, cats and weather using the Dog API, Cat API, and Weather API. It provides users with details about various dog breeds, cat breeds, and current weather conditions.
 
 ## Table of Contents
 
