@@ -1,0 +1,25 @@
+{
+  "name": "animal-and-weather",
+  "version": "1.0.0",
+  "description": "WDD330 final project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "format": "prettier --write ."
+  },
+  "author": "Terence Borjal <terenceborjal@gmail.com>",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "parcel": "^2.11.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "prettier": "^3.3.2",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0"
+  }
+}
