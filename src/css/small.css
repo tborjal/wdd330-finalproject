@@ -1,8 +1,8 @@
 :root {
   --text-color: white;
-  --primary-color: #ffffe0;
-  --secondary-color: #ffdab9;
-  --tertiary-color: #b0e0e6;
+  --primary-color: #d6f2d2;
+  --secondary-color: #98f8ff;
+  --tertiary-color: #ffffff;
 }
 .hourly-weather:hover,
 .daily-weather:hover,
@@ -133,7 +133,7 @@ main > div {
 }
 
 .like-button {
-  background-color: #3fb2ff;
+  background-color: #ccff4b;
   color: #000000;
   min-width: 10%;
 }
@@ -191,7 +191,7 @@ img.breed-img {
 
 div.details-container {
   text-align: justify;
-  background-color: #e6e6fa;
+  background-color: #faba89;
   padding: 10px;
   margin: 0 auto;
 }
@@ -201,7 +201,7 @@ div.join-container {
 }
 
 .join-container {
-  background-color: #e6e6fa;
+  background-color: #fed17e;
 }
 
 #join-form {

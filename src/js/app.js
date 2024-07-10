@@ -10,7 +10,7 @@ function Header(mainDiv) {
   });
 
   const appTitle = createElement("h1", {
-    textContent: "🐾DOG•CAT•WEATHER🐾",
+    textContent: "🐾ANIMAL•WEATHER🐾",
     className: "heading",
   });
 
@@ -66,7 +66,7 @@ function Footer() {
 
   const nameDeveloper = createElement("span", {
     className: "name-developer",
-    textContent: `Developer: FireBurn`,
+    textContent: `Developer: tborjal`,
   });
 
   return createElement("footer", {}, [nameDeveloper, copyright, lastModified]);
