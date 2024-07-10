@@ -1,4 +1,4 @@
-// Import required functions from utils.js
+// Import required functions from utils.js //
 import { createElement, fetchData, toggleLikeDetails } from "./utils";
 const catApiKey = process.env.CAT_API_KEY;
 
@@ -66,5 +66,4 @@ async function catDetails(id) {
     throw error;
   }
 }
-
 export default catDetails;
