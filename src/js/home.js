@@ -47,7 +47,7 @@ async function home() {
       "Dog",
       dogData,
       "dog-random-image",
-      "Dog Highlights",
+      "Dog Highlights!!!!",
     );
 
     const title = createElement("h2", { textContent: "HOME" });
