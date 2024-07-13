@@ -16,8 +16,7 @@ This project combines information about animals like dogs, cats and weather usin
 
 ## Features
 
-- View details about different dog breeds.
-- Explore information about various cat breeds.
+- View details and explore information about various animals like dogs and cats breed.
 - Check the current weather conditions.
 
 ## Technologies Used
