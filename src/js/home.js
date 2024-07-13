@@ -41,13 +41,13 @@ async function home() {
       "Cat",
       catData,
       "cat-random-image",
-      "Random Cat Image Today! Enjoy",
+      "Cat Highlights!!!!",
     );
     const dogElement = imageDiv(
       "Dog",
       dogData,
       "dog-random-image",
-      "Random Dog Image Today! Enjoy",
+      "Dog Highlights",
     );
 
     const title = createElement("h2", { textContent: "HOME" });
