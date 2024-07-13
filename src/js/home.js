@@ -13,7 +13,7 @@ const weatherApiKey = process.env.WEATHER_API_KEY;
 async function home() {
   try {
     const heroImage = createElement("img", {
-      src: "https://raw.githubusercontent.com/tborjal/wdd330-finalproject/main/src/images/finalprojlogo.webp",
+      src: "https://raw.githubusercontent.com/tborjal/wdd330-finalproject/main/src/images/animals.webp",
       alt: "Dog and Cat Hero Image",
       className: "hero-image",
     });

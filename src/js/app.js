@@ -5,7 +5,7 @@ import { initCatRouter } from "./catRouter";
 
 function Header(mainDiv) {
   const siteIcon = createElement("img", {
-    src: "https://raw.githubusercontent.com/tborjal/wdd330-finalproject/main/src/images/animals.webp",
+    src: "https://raw.githubusercontent.com/tborjal/wdd330-finalproject/main/src/images/finalprojlogo.webp",
     alt: "Dog and Cat Icon",
   });
 
