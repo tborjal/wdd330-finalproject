@@ -48,7 +48,7 @@ export async function getLocation() {
         },
       );
     } else {
-      reject(new Error("Geolocation is not supported by this browser."));
+      reject(new Error("Geo-location is not supported by this browser."));
     }
   });
 }
